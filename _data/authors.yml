@@ -19,13 +19,12 @@ default:                                                      # Fallback if noth
   pinterest:                                                  # OPTIONAL: used in the about page
   dribble:                                                    # OPTIONAL: used in the about page
   behance:                                                    # OPTIONAL: used in the about page
-jwillmer:
-  initial:      jwillmer
-  name:         "Jens Willmer"        
+mcha:
+  initial:      mcha
+  name:         "Myungjun Cha"        
   cover:        /assets/mountain-alternative-cover.jpg  
   picture:      /assets/jwillmer.jpg  
-  bio:          All about technology 
-  location:     Germany 
-  website:      "http://jwillmer.de/about" 
-  twitter:      jenswillmer
-  github:       jwillmer
+  bio:          Solid State Electronic Devices
+  location:     Seoul, South Korea
+  facebook:     Myungjun Cha
+  github:       myungjuncha
