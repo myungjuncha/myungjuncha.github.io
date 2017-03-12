@@ -1,7 +1,7 @@
 ----
 -layout:    about
 -permalink: "/about/"
--author:    mcha
+-author:    jwillmer
 -keywords:  about person demo example
 -title:     About Myungjun Cha
 -menutitle: About
