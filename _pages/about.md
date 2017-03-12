@@ -1,3 +1,14 @@
+----
+-layout:    about
+-permalink: "/about/"
+-author:    mcha
+-keywords:  about person demo example
+-title:     About Myungjun Cha
+-menutitle: About
+-weight:    55
+-excerpt:   This page contains the curriculum vitae (CV) of the author.
+----
+
 ## Profile
 Myungjun Cha
 
