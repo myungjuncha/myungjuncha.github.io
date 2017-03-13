@@ -36,12 +36,12 @@ author:
   name:              Myungjun Cha
   url:               mjcha92@gmail.com
   avatar:            test.png
-  #email:           
+  email:             reseda@yonsei.ac.kr
 
 # Owner/author information
 owner:
   name:           Myungjun Cha
-  avatar:         foo.png
+  avatar:         test.png
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
