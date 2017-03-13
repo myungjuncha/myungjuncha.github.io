@@ -10,7 +10,7 @@ title:               Myungjun
 #tagline:             'foo's website
 description:         Myungjun's blog...
 url: https://myungjuncha.github.io
-baseurl: "/lanyon-plus"
+baseurl: ""
 urlimg: /images/
 markdown: kramdown
 paginate: 5
