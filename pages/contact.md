@@ -20,8 +20,6 @@ tags:
  
 | <i class="fa fa-envelope"></i> | Myungjun Cha<br>Engineering Research Park<br>50, Yonsei-ro, Seodaemun-gu<br>Seoul, South Korea   | 
 | - | :- |
-| <i class="fa fa-car"></i>  | [Driving directions]({{ site.url }}/directions) | 
-| - | :- |
 | <i class="fa fa-paper-plane">  | reseda@yonsei.ac.kr | 
 | - | :- |
 
