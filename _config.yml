@@ -11,7 +11,7 @@ title:               Myungjun
 description:         Myungjun's blog...
 url: https://myungjuncha.github.io
 baseurl: "/lanyon-plus"
-urlimg: https://myungjuncha.github.io/lanyon-plus/images/
+urlimg: /images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
