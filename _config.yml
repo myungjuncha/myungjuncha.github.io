@@ -9,7 +9,7 @@ relative_permalinks: false
 title:               foo
 #tagline:             'foo's website
 description:         Foo's blog...
-url: https://myungjuncha.github.io
+url: https://dyndna.github.io
 baseurl: "/lanyon-plus"
 urlimg: https://dyndna.github.io/images/
 markdown: kramdown
