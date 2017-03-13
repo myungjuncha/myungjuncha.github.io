@@ -6,7 +6,7 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               Myungjun
+title:               Myungjun's blog
 #tagline:             'foo's website
 description:         Myungjun's blog...
 url: https://myungjuncha.github.io
