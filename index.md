@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of foo boo
-description: "Blogging on ...."
+title: Myungjun's blog
+description: "This is Myungjun's blog"
 ---
 
 ## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
