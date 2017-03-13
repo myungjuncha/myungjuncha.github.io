@@ -33,14 +33,14 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
-  url:               https://twitter.com/abcd
+  name:              Myungjun Cha
+  url:               mjcha92@gmail.com
   avatar:         foo.png
   #email:           
 
 # Owner/author information
 owner:
-  name:           Foo Boo
+  name:           Myungjun Cha
   avatar:         foo.png
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
@@ -97,6 +97,6 @@ disqus_shortname: foo
 #google_analytics:   xyz123abc
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
+#github_repo: https://github.com/dyndna/lanyon-plus
 version: 1.1.0
 ## END ##
