@@ -35,7 +35,7 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 author:
   name:              Myungjun Cha
   url:               mjcha92@gmail.com
-  avatar:         foo.png
+  avatar:            test.png
   #email:           
 
 # Owner/author information
