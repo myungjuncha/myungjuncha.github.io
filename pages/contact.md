@@ -17,9 +17,7 @@ tags:
   - "driving directions"
   - address
 ---
-
-| <i class="fa fa-twitter"></i> | [@{{ site.owner.twitter }}](https://twitter.com/{{ site.owner.twitter }})  | 
-| - | :- | 
+ 
 | <i class="fa fa-envelope"></i> | Myungjun Cha<br>Engineering Research Park<br>50, Yonsei-ro, Seodaemun-gu<br>Seoul, South Korea   | 
 | - | :- |
 | <i class="fa fa-car"></i>  | [Driving directions]({{ site.url }}/directions) | 
